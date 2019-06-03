@@ -1,12 +1,14 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Shooting.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\playerStatus.js">
     <Files>
-      <File FileName="Assets\Shooting.js" Line="4" Column="28" />
-      <File FileName="Assets\Underwater.js" Line="1" Column="1" />
-      <File FileName="..\..\Terrain\Assets\Standard Assets\Character Controllers\Sources\Scripts\FPSInputController.js" Line="1" Column="1" />
-      <File FileName="Assets\UnderWater.js" Line="1" Column="1" />
-      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonCamera.js" Line="1" Column="1" />
+      <File FileName="Assets\playerStatus.js" Line="12" Column="15" />
+      <File FileName="Assets\meetSpongebob.js" Line="1" Column="1" />
+      <File FileName="Assets\meetJellyfish.js" Line="1" Column="1" />
+      <File FileName="Assets\attackFromJF.js" Line="1" Column="1" />
+      <File FileName="Assets\meetFire.js" Line="4" Column="33" />
+      <File FileName="Assets\TitleScreen.js" Line="11" Column="36" />
+      <File FileName="Assets\gotoopening.js" Line="12" Column="29" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

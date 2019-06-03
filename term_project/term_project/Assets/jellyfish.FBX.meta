@@ -30,8 +30,9 @@ ModelImporter:
     4300004: Loft002
     4300006: Loft003
     4300008: Loft004
-    7400000: Take 001
+    7400000: bouncing
     9500000: //RootNode
+    11100000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
@@ -48,15 +49,15 @@ ModelImporter:
     extraExposedTransformPaths: []
     clipAnimations:
     - serializedVersion: 16
-      name: Take 001
+      name: bouncing
       takeName: Take 001
       firstFrame: 0
       lastFrame: 80
-      wrapMode: 0
+      wrapMode: 2
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
-      loop: 0
+      loop: 1
       loopTime: 1
       loopBlend: 0
       loopBlendOrientation: 0
@@ -120,5 +121,5 @@ ModelImporter:
     feetSpacing: 0
     rootMotionBoneName: 
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 1
   userData: 

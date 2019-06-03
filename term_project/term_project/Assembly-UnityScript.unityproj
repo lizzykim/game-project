@@ -47,9 +47,16 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\CameraMove.js" />
+     <Compile Include="Assets\JFMaker.js" />
      <Compile Include="Assets\Shooting.js" />
      <Compile Include="Assets\TitleScreen.js" />
      <Compile Include="Assets\Underwater.js" />
+     <Compile Include="Assets\attackFromJF.js" />
+     <Compile Include="Assets\gotoopening.js" />
+     <Compile Include="Assets\meetFire.js" />
+     <Compile Include="Assets\meetJellyfish.js" />
+     <Compile Include="Assets\meetSpongebob.js" />
+     <Compile Include="Assets\playerStatus.js" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
      <None Include="Assets\Standard Assets\Water (Pro Only)\Water4\Sources\Shaders\FX-SimpleWater4.shader" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
