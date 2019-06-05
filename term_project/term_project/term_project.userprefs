@@ -1,14 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\playerStatus.js">
     <Files>
-      <File FileName="Assets\playerStatus.js" Line="12" Column="15" />
-      <File FileName="Assets\meetSpongebob.js" Line="1" Column="1" />
-      <File FileName="Assets\meetJellyfish.js" Line="1" Column="1" />
-      <File FileName="Assets\attackFromJF.js" Line="1" Column="1" />
-      <File FileName="Assets\meetFire.js" Line="4" Column="33" />
-      <File FileName="Assets\TitleScreen.js" Line="11" Column="36" />
-      <File FileName="Assets\gotoopening.js" Line="12" Column="29" />
+      <File FileName="Assets\playerStatus.js" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

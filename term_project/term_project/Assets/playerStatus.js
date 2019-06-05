@@ -14,6 +14,7 @@ function RIP(amount:int) {
 	
 }
 
+
 function MeetSponge(amount:int) {
 	//Instantiate(coinParticlePrefab, transform.position, transform.rotation);
 	score += amount;
